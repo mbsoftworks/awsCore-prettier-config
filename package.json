@@ -1,0 +1,12 @@
+{
+  "description": "Prettier config for Inter IKEA Digital AWS Core projects.",
+  "license": "UNLICENSED",
+  "main": "index.json",
+  "name": "@inter-ikea-digital/awscore-prettier-config",
+  "peerDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4",
+    "prettier": "^2"
+  },
+  "repository": "git@github.com:Inter-IKEA-Digital/awsCore-prettierConfig.git",
+  "version": "1.0.0"
+}
